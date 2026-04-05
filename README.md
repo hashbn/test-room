@@ -2,4 +2,4 @@
 
 read me this text room
 
-php version 8
+php version 8.0
